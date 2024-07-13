@@ -67,9 +67,9 @@ variableTypesConsoleLog({ name: "viraljain7", age: 22 });
 // 2. Reassignment Demo: Create a script that demonstrates the difference in behavior between let and const when it comes to reassignment.
 
 // Demo for let
-let virat = 17;
+let virat = 99;
 console.log("virat", virat);
-// virat = 10;  // error
+virat = 100;
 console.log("virat", virat);
 
 

@@ -1,4 +1,4 @@
-console.log("---------------------Day 3 Assignment--------------------");
+console.log("---------------------Day 4 Assignment--------------------");
 
 
 // Activity 1 -> For Loop

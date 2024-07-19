@@ -3,6 +3,8 @@ console.log("---------------------Day 3 Assignment--------------------");
 // Activity 1: If/Else Statement
 
 // Task 1
+console.log('\n--------------------------- Task 1:------------------------------\n');
+
 let num = 9;
 
 if (num < 0) {
@@ -16,6 +18,8 @@ else {
 }
 
 // Task 2
+console.log('\n--------------------------- Task 2:------------------------------\n');
+
 const age = 23;
 
 if (age < 18) {
@@ -27,6 +31,8 @@ else {
 // Activity 2: Nested If/Else Statement
 
 // Task 3
+console.log('\n--------------------------- Task 3:------------------------------\n');
+
 let num1 = 20;
 let num2 = 3;
 let num3 = 33;
@@ -54,6 +60,8 @@ else {
 // Activity 3: Switch Case
 
 // Task 4
+console.log('\n--------------------------- Task 4:------------------------------\n');
+
 
 const weekNumber = 3;
 
@@ -89,6 +97,7 @@ switch (weekNumber) {
 
 
 // Task 5
+console.log('\n--------------------------- Task 5:------------------------------\n');
 
 let marks = 70;
 switch (true) {
@@ -117,6 +126,8 @@ switch (true) {
 
 // Activity 4 : Ternary operator
 // Task 6
+console.log('\n--------------------------- Task 6:------------------------------\n');
+
 
 let num4 = 2004;
 console.log((num4 % 2 == 0) ? `${num4} is even` : `${num4} is odd`)
@@ -124,6 +135,8 @@ console.log((num4 % 2 == 0) ? `${num4} is even` : `${num4} is odd`)
 
 // Activity 5 : Combining Conditions
 // Task 7
+console.log('\n--------------------------- Task 7:------------------------------\n');
+
 
 let year = 2005;
 if (year % 4 === 0) {
